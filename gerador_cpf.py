@@ -1,8 +1,5 @@
 from random import randint
 numero = str(randint(100000000, 999999999))
-
-# cpf = '16899535009'
-# cpf = input('Digite um CPF: ')
 novo_cpf = numero
 reverso = 10
 total = 0
